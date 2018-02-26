@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WADinator", "WADinator.csproj", "{49DC204F-C08C-8166-6ED0-90F09F32D939}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WADinator.Editor", "WADinator.Editor.csproj", "{60CBC5F4-99AA-FF97-0206-A5B69516F691}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49DC204F-C08C-8166-6ED0-90F09F32D939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49DC204F-C08C-8166-6ED0-90F09F32D939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49DC204F-C08C-8166-6ED0-90F09F32D939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49DC204F-C08C-8166-6ED0-90F09F32D939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60CBC5F4-99AA-FF97-0206-A5B69516F691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60CBC5F4-99AA-FF97-0206-A5B69516F691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60CBC5F4-99AA-FF97-0206-A5B69516F691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60CBC5F4-99AA-FF97-0206-A5B69516F691}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
